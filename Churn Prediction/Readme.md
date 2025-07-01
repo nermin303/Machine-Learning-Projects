@@ -1,6 +1,6 @@
  # Predicting Customer Churn in the Telecom Sector
 
-This repository contains the files for a graduation project that predicts customer churn in the telecom sector using **Logistic Regression** and **XGBoost** models.  
+This repository contains the files for a project that predicts customer churn in the telecom sector using **Logistic Regression** and **XGBoost** models.  
 It includes all steps from data cleaning to final model evaluation.
 
 ## 📌 Project Overview
